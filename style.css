@@ -157,13 +157,13 @@ a:hover {
 .d-bloc a:hover .icon-md,
 .d-bloc a:hover .icon-lg,
 .d-bloc a:hover .icon-xl{
-    color: #000000;
+    color: #ffffff;
 }
 .d-bloc a .icon-sm,
 .d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl{
-    color: #FFFFFF;
+    color: #000000;
 }
 
 
