@@ -91,8 +91,9 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
-    background-size: 280px 280px;
+    background: url("img/texture-paper.png"); 
+     background-size: 280px 280px;
+     
 }
 
 .b-parallax {
@@ -243,8 +244,9 @@ a:hover {
 .l-bloc h3 a,
 .l-bloc h4 a,
 .l-bloc h5 a,
-.l-bloc h6 a,
-.l-bloc p a {
+.l-bloc h6 a
+/* .l-bloc p a  */
+{
     color: rgba(0, 0, 0, .6);
 }
 
@@ -452,6 +454,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    
 }
 
 .mg-lg {
@@ -750,8 +753,9 @@ h4 {
 }
 
 .white {
-    color: #000000!important;
+    color: #ffffff!important;
 }
+
 .text-center {
     
     color: #FFFFFF;
@@ -1085,3 +1089,9 @@ h4 {
 .fa-chevron-up{
     color: #FFFFFF;
 }
+.black{
+    color: #000000;
+    font-weight: 600;
+    font-size: small;
+}
+
