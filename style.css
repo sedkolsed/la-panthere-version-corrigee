@@ -1049,3 +1049,22 @@ h4 {
     padding-left: 30px;
     padding-right: 30px;
 }
+.citation{
+    font-style: italic;
+    border-left: none;
+    margin-bottom: -5px;
+}
+.citation p{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: 900;
+    
+    font-size:smaller;
+}
+.author{
+    font-style: normal;
+}
+.author p{
+    font-size:large;
+    color: inherit;
+    
+}
