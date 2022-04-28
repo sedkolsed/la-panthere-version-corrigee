@@ -122,10 +122,10 @@ a:hover {
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
-.d-bloc a .icon-sm,
+/* .d-bloc a .icon-sm,
 .d-bloc a .icon-md,
 .d-bloc a .icon-lg,
-.d-bloc a .icon-xl,
+.d-bloc a .icon-xl, */
 .d-bloc h1 a,
 .d-bloc h2 a,
 .d-bloc h3 a,
@@ -139,10 +139,10 @@ a:hover {
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
-.d-bloc a:hover .icon-sm,
+/* .d-bloc a:hover .icon-sm,
 .d-bloc a:hover .icon-md,
 .d-bloc a:hover .icon-lg,
-.d-bloc a:hover .icon-xl,
+.d-bloc a:hover .icon-xl, */
 .d-bloc h1 a:hover,
 .d-bloc h2 a:hover,
 .d-bloc h3 a:hover,
@@ -152,6 +152,20 @@ a:hover {
 .d-bloc p a:hover {
     color: rgba(255, 255, 255, 1);
 }
+.d-bloc a:hover .icon-sm,
+.d-bloc a:hover .icon-md,
+.d-bloc a:hover .icon-lg,
+.d-bloc a:hover .icon-xl{
+    color: #000000;
+}
+.d-bloc a .icon-sm,
+.d-bloc a .icon-md,
+.d-bloc a .icon-lg,
+.d-bloc a .icon-xl{
+    color: #FFFFFF;
+}
+
+
 
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
@@ -1045,10 +1059,10 @@ h4 {
     }
 }
 /* modifications SEO & accéssibilité*/
-.row{
+/* .row{
     padding-left: 30px;
     padding-right: 30px;
-}
+} */
 .citation{
     font-style: italic;
     border-left: none;
@@ -1067,4 +1081,7 @@ h4 {
     font-size:large;
     color: inherit;
     
+}
+.fa-chevron-up{
+    color: #FFFFFF;
 }
