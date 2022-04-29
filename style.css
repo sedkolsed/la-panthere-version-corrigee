@@ -1094,4 +1094,7 @@ h4 {
     font-weight: 600;
     font-size: small;
 }
-
+.display-flex{
+    display: flex;
+    flex-direction: column;
+}
