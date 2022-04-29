@@ -1103,5 +1103,16 @@ h4 {
 }
 .petit-logo{
     height: 40px;
-    
+
 }
+.img-responsive{
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.col-sm-12{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
