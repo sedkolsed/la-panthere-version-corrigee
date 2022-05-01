@@ -1081,11 +1081,11 @@ h4 {
 .author{
     font-style: normal;
 }
-.author p{
+/* .author p{
     font-size:large;
     color: inherit;
     
-}
+} */
 .fa-chevron-up{
     color: #FFFFFF;
 }
