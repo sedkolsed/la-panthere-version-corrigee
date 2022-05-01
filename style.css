@@ -1115,4 +1115,17 @@ h4 {
     padding-left: 40px;
     padding-right: 40px;
 }
+.liste-partenaires{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    padding-right: 7%;
+    
+}
+.liste-partenaires li{
+    list-style:none;
+    font-size: medium;
+    padding-bottom: 1rem;
+    
+}
 
