@@ -668,7 +668,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -740,7 +740,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 h4 {
@@ -1116,19 +1116,26 @@ h4 {
     padding-right: 40px;
 }
 .liste-partenaires{
+    
     margin-top: 3rem;
     margin-bottom: 3rem;
-    text-align: center;
-    padding-right: 7%;
+    
+    
     
 }
 .liste-partenaires li{
-    list-style:none;
+    list-style: square;
     font-size: medium;
     padding-bottom: 1rem;
+    margin-left: 5%;
+    
     
 }
 strong{
     font-weight: normal;
+}
+.page3{
+    font-size: 16px;
+    font-weight: 600;
 }
 
