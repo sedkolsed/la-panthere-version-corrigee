@@ -1134,7 +1134,7 @@ h4 {
 strong{
     font-weight: normal;
 }
-.page3{
+.page3, .page2{
     font-size: 16px;
     font-weight: 600;
 }
