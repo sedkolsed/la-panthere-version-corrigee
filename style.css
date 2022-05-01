@@ -18,14 +18,14 @@ a:hover {
     cursor: pointer;
 }
 
-#page-loading-blocs-notifaction {
+/* #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
     bottom: 0;
     width: 100%;
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
-}
+} */
 
 .bloc {
     width: 100%;
@@ -717,8 +717,11 @@ p {
 }
 
 .social {
+   
     max-width: 400px;
     margin: auto auto auto auto;
+    padding-bottom: 30px;
+    
 }
 
 h2 {
@@ -788,9 +791,9 @@ h4 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
+/* .bgc-dark-slate-blue {
     background-color: #364577;
-}
+} */
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
@@ -1137,5 +1140,6 @@ strong{
 .page3, .page2{
     font-size: 16px;
     font-weight: 600;
+
 }
 
